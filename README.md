@@ -1,8 +1,8 @@
 # COS 201 - Computer Programming I
 
 ## Student Information
-* **Name:** [Your Full Name]
-* **Matriculation Number:** [Your Matric Number]
+* **Name:** Martins Dickson Success
+* **Matriculation Number:** 25/18989
 * **Programme:** Computer Science
 * **Course Code:** COS 201
 
